@@ -1,0 +1,10 @@
+name = "100knocks-preprocess"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+MLDataPattern = "9920b226-0b2a-5f5f-9153-9aa70a013f8b"
+ScikitLearn = "3646fa90-6ef7-5e7e-9f22-8aca16db6324"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
